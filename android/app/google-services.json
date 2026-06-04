@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1035773338252",
+    "project_id": "care-connect-3dbd7",
+    "storage_bucket": "care-connect-3dbd7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035773338252:android:177d0b770a3d4f349691a9",
+        "android_client_info": {
+          "package_name": "com.example.clinic_appointment_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3sHEwEK66GBUCp7wTMX6CCYVfrCsTVog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
